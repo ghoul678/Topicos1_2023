@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # helloquarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -70,3 +71,7 @@ Create your first JPA entity
 Easily start your RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
+=======
+# Topicos1_2023
+Estudo sobre o Quarkus
+>>>>>>> 9eaadb263e15de23372cf003a453d29ea0d48eb4
